@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\Testes\\Testes.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj",
+        "projectName": "TaskControl",
+        "projectPath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj",
+        "packagesPath": "C:\\Users\\Mabel\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mabel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\Testes\\Testes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\Testes\\Testes.csproj",
+        "projectName": "Testes",
+        "projectPath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\Testes\\Testes.csproj",
+        "packagesPath": "C:\\Users\\Mabel\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\Testes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mabel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj": {
+                "projectPath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+- Atividade Criar um projeto de Controle de Tarefas
+
+  > Nova tarefa
+    > Nome
+    > Descrição 
+    > Responsável (Nome do responsável)
+    > Status
+      > Em andamento
+      > Concluída
+      > Cancelada
+
+Métodos a serem implementados
+
+  > Visualizar minhas tarefas
+  > Visualizar as tarefas de outras pessoas
+  > Mudar o responsável da tarefa
+  > Cadastrar tarefa
+
+    | Exercício de Aula 03  
+            Pedro |
+            
+    Revisão de Exercicio   | 
+          Anastacio |
+
+Exemplo de branch para ser usada no gitlab
+> anastacio_exercicio_aula_03

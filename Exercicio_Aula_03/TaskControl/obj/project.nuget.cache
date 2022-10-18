@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8Rxxw+L/1/x3EIGUoeNvVyUq9VHCxgxWUgxmbE6WAairhwoF8Jg9b8dBm8J5udnxA2aqPTEU9qFThDvFZyIWg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Mabel\\Desktop\\RaroAcademy\\RaroGit\\dot_net_turma_1\\Exercicio_Aula_03\\TaskControl\\TaskControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mabel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Mabel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mabel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
